@@ -1,0 +1,10 @@
+adafruit-circuitpython-charlcd
+adafruit-circuitpython-bme280
+adafruit-circuitpython-scd4x
+pyserial
+adafruit-circuitpython-pm25
+adafruit-circuitpython-tsl2591
+adafruit-circuitpython-ds3231
+wifi
+influxdb
+influxdb-client
